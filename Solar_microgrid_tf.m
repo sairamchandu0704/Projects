@@ -1,0 +1,6 @@
+num = input(' Enter Numerator')
+den = input('Enter Denominator')
+h=tf(num,den)
+rlocus(h)
+bode(h)
+nyquist(h)
